@@ -112,11 +112,11 @@ try{
 			await delay(1999)
             console.log(chalk.yellow(`\n\n               ${chalk.bold.blue(`[ ${botname} ]`)}\n\n`))
             console.log(color(`< ================================================== >`, 'cyan'))
-            console.log(color(`\n${themeemoji} TG CHANNEL: HACKERGuru2`,'magenta'))
-            console.log(color(`${themeemoji} GITHUB: NEXUSAT12`,'magenta'))
-            console.log(color(`${themeemoji} INSTAGRAM: @at.__010`,'magenta'))
-            console.log(color(`${themeemoji} WA NUMBER: ${owner}`,'magenta'))
-            console.log(color(`${themeemoji} CREDIT: ${wm}\n`,'magenta'))
+            console.log(color(`\n${themeemoji} TG CHANNEL: NEXUS_GOD9`,'magenta'))
+            console.log(color(`${themeemoji} GITHUB: AYANOKOUJIAT11`,'magenta'))
+            console.log(color(`${themeemoji} INSTAGRAM: @Lovveee._7x`,'magenta'))
+            console.log(color(`${themeemoji} WA NUMBER: 919464019450`,'magenta'))
+            console.log(color(`${themeemoji} CREDIT: 𝑵𝑬𝑿𝑼𝑺                  ¿?`,'magenta'))
 		}
 	
 } catch (err) {
