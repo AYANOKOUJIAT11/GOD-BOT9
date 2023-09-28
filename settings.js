@@ -21,27 +21,27 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner =  process.env.OWNER_NUMBER || '918130784851' //ur owner number
-global.ownernomer = process.env.OWNER_NUMBER || "918130784851" //ur owner number2
-global.ownername = process.env.OWNER_NAME === undefined ? '༺⟬☤⟭༻NEXUS༺⟬☤⟭༻' : process.env.OWNER_NAME,//ur owner name
-global.ytname = "TG: https://t.me/HACkERGuru2" //ur yt chanel name
-global.socialm = "GitHub: NEXUSAT12" //ur github or insta name
+global.owner =  process.env.OWNER_NUMBER || '919464019450' //ur owner number
+global.ownernomer = process.env.OWNER_NUMBER || "" //ur owner number2
+global.ownername = process.env.OWNER_NAME === undefined ? '𝑵𝑬𝑿𝑼𝑺                  ¿?' : process.env.OWNER_NAME,//ur owner name
+global.ytname = "TG: https://t.me/NEXUS_GOD9" //ur yt chanel name
+global.socialm = "insta: @lovveee._7x" //ur github or insta name
 global.location = "India, delhi , kalu sarai " //ur location
 
 //new
-global.botname =  process.env.BOT_NAME === undefined ? "ɢᴏᴅ ʙᴏᴛ ᴍᴅ ᴠ1" : process.env.BOT_NAME,
-global.ownernumber =  process.env.OWNER_NUMBER || '918130784851' 
-global.ownername = process.env.OWNER_NAME === undefined ? '༺⟬☤⟭༻NEXUS༺⟬☤⟭༻' : process.env.OWNER_NAME,
-global.ownerNumber = ["918130784851@s.whatsapp.net"]
+global.botname =  process.env.BOT_NAME === undefined ? "𝑵𝑬𝑿𝑼𝑺 𝑴𝑫" : process.env.BOT_NAME,
+global.ownernumber =  process.env.OWNER_NUMBER || '919464019450' 
+global.ownername = process.env.OWNER_NAME === undefined ? '𝑵𝑬𝑿𝑼𝑺                  ¿?' : process.env.OWNER_NAME,
+global.ownerNumber = ["919464019450@s.whatsapp.net"]
 global.ownerweb = "https://superprofile.bio/lucifercreator"
 global.websitex = "https://superprofile.bio/lucifercreator"
-global.wagc = "https://chat.whatsapp.com/H2yL8sXuUsd2K1wuYydjnb"
-global.themeemoji =  process.env.THEMEMOJI || "👑" 
+global.wagc = ""
+global.themeemoji =  process.env.THEMEMOJI || "🤑" 
 global.wm = "༺⟬☤⟭༻."
-global.botscript = 'https://github.com/NEXUSAT12/GOD-BOT1' //script link
-global.packname =  process.env.PACK_NAME || 'MADE BY MASTER NEXUS',
-global.author = process.env.PACK_AUTHER || '༺⟬☤⟭༻NEXUS༺⟬☤⟭༻',
-global.creator = "918130784851@s.whatsapp.net"
+global.botscript = 'https://github.com/AYANOKOUJIAT11' //script link
+global.packname =  process.env.PACK_NAME || 'MADE BY',
+global.author = process.env.PACK_AUTHER || '𝑵𝑬𝑿𝑼𝑺 𝑴𝑫❤️',
+global.creator = "919464019450@s.whatsapp.net"
 global.prefa = ['','!','.','#','&']
 global.sessionName = 'session'
 global.hituet = 0
